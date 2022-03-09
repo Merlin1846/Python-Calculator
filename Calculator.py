@@ -3,7 +3,7 @@
 #
 #  Calculator.py
 #  
-#  Copyright 2019 Atticus <atticus@HAL4000>
+#  Copyright 2019 Atticus Sebastiani <codingwizardgames@gmail.com>
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
